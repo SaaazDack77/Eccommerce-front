@@ -1,3 +1,66 @@
+# E-Ticaret Uygulaması - Frontend
+
+Bu dizin, e-ticaret uygulamasının React tabanlı kullanıcı arayüzünü içerir.
+
+## Özellikler
+
+- Kullanıcı kaydı ve girişi
+- Ürünleri listeleme ve detaylarını görüntüleme
+- Sepete ürün ekleme ve çıkarma
+- Sipariş oluşturma ve geçmişi görüntüleme
+- Yönetici paneli ile ürün, kategori, kullanıcı ve sipariş yönetimi
+
+## Kullanılan Teknolojiler
+
+- React
+- Redux
+- Axios
+- Modern CSS
+
+## Kurulum ve Çalıştırma
+
+1. Gerekli bağımlılıkları yükleyin:
+   ```bash
+   npm install
+   ```
+2. Uygulamayı başlatın:
+   ```bash
+   npm start
+   ```
+3. Uygulama varsayılan olarak [http://localhost:3000](http://localhost:3000) adresinde çalışır.
+
+---
+
+# E-Commerce Application - Frontend
+
+This directory contains the React-based user interface for the e-commerce application.
+
+## Features
+
+- User registration and login
+- Product listing and detail view
+- Add/remove products to/from cart
+- Create orders and view order history
+- Admin panel for managing products, categories, users, and orders
+
+## Technologies Used
+
+- React
+- Redux
+- Axios
+- Modern CSS
+
+## Setup and Run
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the application:
+   ```bash
+   npm start
+   ```
+3. The app runs at [http://localhost:3000](http://localhost:3000) by default.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,66 +132,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# E-Ticaret Uygulaması - Frontend
-
-Bu dizin, e-ticaret uygulamasının React tabanlı kullanıcı arayüzünü içerir.
-
-## Özellikler
-
-- Kullanıcı kaydı ve girişi
-- Ürünleri listeleme ve detaylarını görüntüleme
-- Sepete ürün ekleme ve çıkarma
-- Sipariş oluşturma ve geçmişi görüntüleme
-- Yönetici paneli ile ürün, kategori, kullanıcı ve sipariş yönetimi
-
-## Kullanılan Teknolojiler
-
-- React
-- Redux
-- Axios
-- Modern CSS
-
-## Kurulum ve Çalıştırma
-
-1. Gerekli bağımlılıkları yükleyin:
-   ```bash
-   npm install
-   ```
-2. Uygulamayı başlatın:
-   ```bash
-   npm start
-   ```
-3. Uygulama varsayılan olarak [http://localhost:3000](http://localhost:3000) adresinde çalışır.
-
----
-
-# E-Commerce Application - Frontend
-
-This directory contains the React-based user interface for the e-commerce application.
-
-## Features
-
-- User registration and login
-- Product listing and detail view
-- Add/remove products to/from cart
-- Create orders and view order history
-- Admin panel for managing products, categories, users, and orders
-
-## Technologies Used
-
-- React
-- Redux
-- Axios
-- Modern CSS
-
-## Setup and Run
-
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-2. Start the application:
-   ```bash
-   npm start
-   ```
-3. The app runs at [http://localhost:3000](http://localhost:3000) by default.
